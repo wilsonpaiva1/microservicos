@@ -1,0 +1,4 @@
+br/com/wilsonpaiva/model/Cambio.class
+br/com/wilsonpaiva/controller/CambioController.class
+br/com/wilsonpaiva/repository/CambioRepository.class
+br/com/wilsonpaiva/CambioServiceApplication.class

@@ -1,0 +1,9 @@
+/home/wilson/Documentos/projetosDev/curso_microservicos/microservicos/book-service/src/main/java/br/com/wilsonpaiva/controller/FooBarController.java
+/home/wilson/Documentos/projetosDev/curso_microservicos/microservicos/book-service/src/main/java/br/com/wilsonpaiva/repository/BookRepository.java
+/home/wilson/Documentos/projetosDev/curso_microservicos/microservicos/book-service/src/main/java/configuration/OpenApiConfiguration.java
+/home/wilson/Documentos/projetosDev/curso_microservicos/microservicos/book-service/src/main/java/br/com/wilsonpaiva/proxy/CambioProxy.java
+/home/wilson/Documentos/projetosDev/curso_microservicos/microservicos/book-service/src/main/java/br/com/wilsonpaiva/response/Cambio.java
+/home/wilson/Documentos/projetosDev/curso_microservicos/microservicos/book-service/src/main/java/br/com/wilsonpaiva/controller/BookController.java
+/home/wilson/Documentos/projetosDev/curso_microservicos/microservicos/book-service/src/main/java/br/com/wilsonpaiva/model/Book.java
+/home/wilson/Documentos/projetosDev/curso_microservicos/microservicos/book-service/src/main/java/br/com/wilsonpaiva/BookServiceApplication.java
+/home/wilson/Documentos/projetosDev/curso_microservicos/microservicos/book-service/src/main/java/br/com/wilsonpaiva/service/BookService.java

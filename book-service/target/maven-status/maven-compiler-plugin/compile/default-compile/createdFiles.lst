@@ -1,0 +1,9 @@
+br/com/wilsonpaiva/repository/BookRepository.class
+br/com/wilsonpaiva/BookServiceApplication.class
+br/com/wilsonpaiva/response/Cambio.class
+br/com/wilsonpaiva/controller/BookController.class
+br/com/wilsonpaiva/controller/FooBarController.class
+br/com/wilsonpaiva/model/Book.class
+br/com/wilsonpaiva/service/BookService.class
+configuration/OpenApiConfiguration.class
+br/com/wilsonpaiva/proxy/CambioProxy.class

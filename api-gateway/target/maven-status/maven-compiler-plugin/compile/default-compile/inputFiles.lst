@@ -1,0 +1,4 @@
+/home/wilson/Documentos/projetosDev/curso_microservicos/microservicos/api-gateway/src/main/java/br/com/wilsonpaiva/filter/LogginFilter.java
+/home/wilson/Documentos/projetosDev/curso_microservicos/microservicos/api-gateway/src/main/java/br/com/wilsonpaiva/configuration/ApiGatewayConfiguration.java
+/home/wilson/Documentos/projetosDev/curso_microservicos/microservicos/api-gateway/src/main/java/br/com/wilsonpaiva/ApiGatewayApplication.java
+/home/wilson/Documentos/projetosDev/curso_microservicos/microservicos/api-gateway/src/main/java/br/com/wilsonpaiva/configuration/OpenApiConfigutaion.java
