@@ -78,11 +78,11 @@ services:
     networks:
       - wilson-network
   cambio-service:
-    image: wilsonpaiva/cambio-service
+    image: wilsonpaiva/cambio-service:0.0.1-SNAPSHOT
     restart: always
-    build:
-      context: .
-      dockerfile: cambio-service/Dockerfile
+    #build:
+      #context: .
+      #dockerfile: cambio-service/Dockerfile
     environment:
       TZ: America/Sao_Paulo
       EUREKA.CLIENT.SERVICEURL.DEFAULTZONE: http://naming-server:8761/eureka
